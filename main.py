@@ -1,3 +1,6 @@
+
+# Mohammed BOUKOUIREN BUT SD FA VCOD - Groupe 33
+
 # Program to check if a number is prime or not
 num = 67
 # To take input from the user
