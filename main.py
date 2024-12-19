@@ -1,5 +1,6 @@
 
 # Mohammed BOUKOUIREN BUT SD FA VCOD - Groupe 33
+# Développement Logiciel - 19/12/2024
 
 # Program to check if a number is prime or not
 num = 67
